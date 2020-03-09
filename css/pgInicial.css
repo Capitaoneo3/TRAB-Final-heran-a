@@ -1,0 +1,15 @@
+@media (min-width: 776px){ /*deve atingir no mínimo 776px para os itens ficarem modo linha*/
+    .m {                   
+    display:table-footer-group;
+        float: left;
+        width: 100%;
+        
+    }
+} 
+ .m{
+    display:inline-block;
+    width: 20%;
+  
+    position: relative ;
+
+}
